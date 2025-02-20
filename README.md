@@ -6,8 +6,7 @@ easy_bike_dhaka
  <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>EasyBikeDhaka</title>
- </head>
+  </head>
  <body>
     <center>
         <strong>Easy Bike in Dhaka</strong>
